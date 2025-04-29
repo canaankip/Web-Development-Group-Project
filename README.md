@@ -14,7 +14,7 @@ The website includes the following pages:
 - `portfolio.html` – Gallery of past work and partner logos
 - `contact.html` – Footer and contact/social media information
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - HTML5
 - CSS3
 - Bootstrap 5
