@@ -1,7 +1,7 @@
 # UI Portfolio Website – Web Development Group Project
 
 ##  Group Members
--
+-Claude Nyongesa
 
 ## Project Overview
 This project is a responsive UI Portfolio website developed as part of our Web Development learning module. It showcases a modern, professional portfolio layout using HTML5, CSS3, and Bootstrap 5.
